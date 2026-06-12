@@ -82,9 +82,9 @@ Government College University, Faisalabad
 **DevOps & Cloud**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Github](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=github&logoColor=white)
+![Github](https://img.shields.io/badge/Github-2496ED?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD Pipline](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD Pipline](https://img.shields.io/badge/CI-CD-Pipline-2496ED?style=for-the-badge&logo=github&logoColor=white)
 
 **AI & LLM**
 
