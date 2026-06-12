@@ -10,6 +10,12 @@
 
 <br/>
 
+<p align="center">
+  <img src="./banner.svg" alt="Mohammad Waqas – Software Engineer" width="100%"/>
+</p>
+
+<br/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -82,7 +88,7 @@ Government College University, Faisalabad
 **DevOps & Cloud**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Github](https://img.shields.io/badge/Github-2496ED?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **AI & LLM**
@@ -159,9 +165,9 @@ Built core backend systems from the ground up using Laravel & Livewire. Tuned My
 ---
 
 <p align="center">
-  <b>Open to Freelance · Remote · Full-Time Opportunities</b><br/><br/>
-  I'm actively looking for exciting projects and roles where I can contribute to building scalable, high-quality web applications.<br/>
-  Whether it's a <b>freelance project</b>, a <b>remote position</b>, or a <b>full-time opportunity</b> — I'm open to connecting.<br/><br/>
+  <b>Open to Freelance &nbsp;·&nbsp; Remote &nbsp;·&nbsp; Full-Time Opportunities</b><br/><br/>
+  I am actively looking for exciting projects and roles where I can contribute to building scalable, high-quality web applications.<br/>
+  Whether it is a <b>freelance project</b>, a <b>remote position</b>, or a <b>full-time opportunity</b> — I am open to connecting.<br/><br/>
   <a href="mailto:m.waqas7375@gmail.com">
     <img src="https://img.shields.io/badge/Let's_Work_Together-Get_in_Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
