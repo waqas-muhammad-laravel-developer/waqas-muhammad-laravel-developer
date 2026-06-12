@@ -1,214 +1,130 @@
-<h1 align="center">Hi 👋, I'm Mohammad Waqas</h1>
-<h3 align="center">Software Engineer | Laravel Developer | Full Stack Web Developer</h3>
+<div align="center">
 
-<p align="center">
-Passionate Software Engineer with 3+ years of experience building scalable web applications, ERP/CRM systems, healthcare platforms, and B2B/B2C commerce solutions using Laravel, Livewire, React, and Vue.js.
-</p>
+# 👋 Hi, I'm Mohammad Waqas
+
+### Software Engineer | Laravel Developer | Full Stack Web Developer
+
+Building scalable web applications, ERP/CRM systems, healthcare solutions, multi-vendor marketplaces, and AI-powered platforms using Laravel, Livewire, React, and Vue.js.
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
 - 💼 Software Engineer with 3+ years of professional experience
-- 🔥 Specialized in Laravel, Livewire, React.js, Vue.js & REST APIs
-- 🏗️ Experienced in ERP, CRM, Healthcare, E-Commerce & SaaS Platforms
+- 🔥 Specialized in Laravel, Livewire, React.js, and Vue.js
+- 🏗️ Experienced in ERP, CRM, Healthcare & E-Commerce Platforms
 - 🤖 AI Integrations using Google Gemini & DeepSeek APIs
-- 📊 Strong focus on Database Design, Optimization & Scalability
+- ⚡ Strong focus on Performance, Scalability & Clean Architecture
 - 🌍 Based in Pakistan
-- 📫 Reach me at: **m.waqas7375@gmail.com**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Backend
-- Laravel
-- PHP
-- Livewire
-- CodeIgniter
-- REST APIs
-- WebSockets
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ### Frontend
-- React.js
-- Vue.js
-- JavaScript
-- jQuery
-- Bootstrap
-- HTML5
-- CSS3
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
-### Database
-- MySQL
-- Firebase
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-### DevOps & Tools
-- Git
-- GitHub
-- AWS
-- CI/CD
-- Linux
+---
 
-### AI & Integrations
-- Google Gemini API
-- DeepSeek API
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🕌 **iMasjid** | Mosque Management System with Student Portal, Course Management, Attendance Tracking and Role-Based Access Control |
+| 🇮🇳 **From Bharat** | Business Platform with Workflow Automation, REST APIs, Database Optimization and Scalable Backend Architecture |
+| 🛒 **ShopFlix** | Multi-Vendor Marketplace with Vendor Management, Inventory, Orders, Wishlist, Cart and Secure Checkout |
+| 🏥 **Ayan Health Center** | Hospital Management System with Doctor, Nurse, Receptionist, HR, Accounts and Admin Panels |
+| 📦 **Sourcesin** | Complete B2B Commerce Platform with Customer, Seller and Rider Applications |
+| 📈 **Extbuy** | B2B E-Commerce Platform integrated with CRM, Lead Management and Sales Tracking |
+| 🏢 **Asset Management System** | Asset Tracking, Inventory Management, Maintenance Records and Reporting |
+| 💇 **Salon Management System** | Appointment Scheduling, Billing, Customer Management and Staff Operations |
+
+---
+
+## 💼 Core Expertise
+
+- Laravel Application Development
+- REST API Development
+- ERP & CRM Systems
+- Multi-Vendor E-Commerce Platforms
+- Database Design & Optimization
+- Payment Gateway Integration
+- Real-Time Applications
 - Third-Party API Integrations
+- AI & LLM Integrations
+- System Architecture & Performance Optimization
 
 ---
 
-# Featured Projects
+## 📈 Professional Experience
 
-## 🕌 iMasjid — Mosque Management & Student Portal
+### Software Engineer — Maxcore Technologies
+**Jan 2024 – Present**
 
-A complete mosque and educational management platform.
+- Developing scalable web applications using Laravel, React, Vue.js and Livewire
+- Building secure RESTful APIs and backend services
+- Optimizing databases and application performance
+- Developing ERP, CRM and E-Commerce solutions
+- Integrating AI-powered features using modern LLM APIs
 
-### Key Features
-- Mosque administration panel
-- Student management portal
-- Attendance tracking
-- Course management
-- Role-based access control
-- Reporting & analytics
-- Notifications and announcements
+### Laravel Developer — AZ Software House
+**Dec 2022 – Dec 2023**
 
-**Tech Stack:** Laravel, Livewire, MySQL, JavaScript
-
----
-
-## 🇮🇳 From Bharat
-
-Large-scale business platform focused on digital commerce and operational workflows.
-
-### Contributions
-- Backend architecture development
-- REST API implementation
-- Database optimization
-- Authentication & authorization
-- Performance improvements
-- Business workflow automation
-
-**Tech Stack:** Laravel, MySQL, APIs
+- Built and maintained Laravel applications
+- Designed and optimized MySQL databases
+- Developed business automation solutions
+- Implemented secure authentication and authorization systems
+- Delivered scalable backend architectures
 
 ---
 
-## 🛒 ShopFlix — Multi Vendor Marketplace
+## 🌱 Currently Working On
 
-A complete multi-vendor B2B/B2C e-commerce ecosystem.
-
-### Features
-- Vendor onboarding
-- Product management
-- Inventory management
-- Cart & Wishlist
-- Flash sales
-- Order tracking
-- Payment integration
-- Admin dashboard
-
-**Tech Stack:** Laravel, React, MySQL
+- Advanced Laravel Applications
+- React Frontend Development
+- AI Integrations with Gemini & DeepSeek
+- Real-Time Applications using WebSockets
+- Multi-Vendor Commerce Platforms
 
 ---
 
-## 🏥 Ayan Health Center
+## 📊 GitHub Stats
 
-Hospital Management & Reporting System.
-
-### Modules
-- Receptionist Panel
-- Doctor Panel
-- Nurse Panel
-- Accounts & HR
-- Appointments
-- Patient Records
-- Medical Reports
-- Official Website
-
-**Tech Stack:** Laravel, Livewire, MySQL
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="170">
+</p>
 
 ---
 
-## 📦 Sourcesin
+## 🤝 Connect With Me
 
-All-in-One B2B Commerce Platform.
+📧 **m.waqas7375@gmail.com**
 
-### Features
-- Customer App
-- Seller App
-- Rider App
-- Product Management
-- Order Processing
-- Delivery Tracking
-- Real-Time Operations
-
-**Tech Stack:** Laravel, APIs, Firebase
+💼 **LinkedIn:** linkedin.com/in/mohammad-waqas-laravel-developer
 
 ---
 
-## 📈 Extbuy
+<div align="center">
 
-B2B E-Commerce Platform with CRM.
+### ⭐ Turning Ideas Into Scalable Digital Solutions
 
-### Features
-- Vendor Management
-- Product Management
-- CRM Integration
-- Lead Tracking
-- Logistics Management
-- Customer Relationship Management
-
-**Tech Stack:** Laravel, MySQL
-
----
-
-## 🏢 Asset Management System
-
-- Asset Allocation
-- Inventory Control
-- Maintenance Records
-- Reporting Dashboard
-- User Role Management
-
----
-
-## 💇 Salon Shop Management System
-
-- Appointment Scheduling
-- Customer Management
-- Staff Management
-- Billing System
-- Sales Reporting
-
----
-
-## 📊 Core Expertise
-
-✔ Laravel Development
-
-✔ REST API Development
-
-✔ ERP Systems
-
-✔ CRM Systems
-
-✔ E-Commerce Solutions
-
-✔ Database Optimization
-
-✔ Payment Gateway Integration
-
-✔ AI Integrations
-
-✔ Real-Time Applications
-
-✔ Multi-Tenant Architecture
-
----
-
-## 🤝 Let's Connect
-
-- LinkedIn: linkedin.com/in/mohammad-waqas-laravel-developer
-- Email: m.waqas7375@gmail.com
-
----
-
-⭐ Building scalable applications, solving business problems, and continuously learning new technologies.
+</div>
